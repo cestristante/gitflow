@@ -31,4 +31,5 @@ public class Cuadrado implements Figura {
     public String toString() {
         return "Cuadrado{" + "lado=" + lado + '}';
     }
+
 }
